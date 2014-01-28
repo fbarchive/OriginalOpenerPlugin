@@ -1,4 +1,4 @@
-﻿/* Copyright 2011 Fog Creek Software, Inc. */
+﻿/* Copyright 2013 Fog Creek Software, Inc. */
 
 using System;
 using System.Collections.Generic;
